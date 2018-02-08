@@ -2,3 +2,5 @@ baseURL = "https://woodchipsandbits.github.io/"
 languageCode = "en-us"
 title = "Wood Chips & Bits"
 theme = "pickles"
+publishDir = "docs"
+
